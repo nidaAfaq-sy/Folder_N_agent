@@ -22,8 +22,7 @@ Project Structure
 ├── requirements.txt     # Project dependencies
 └── README.md           # This file
 Setup
-Clone the repository:
-git clone https://github.com/yourusername/enhanced-hello-agent.git
+
 cd enhanced-hello-agent
 Create and activate a virtual environment:
 python -m venv venv
